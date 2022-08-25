@@ -5,9 +5,7 @@
 - 🤔 Up for help with GitHub as I lost my old account and have to start from 0 and with whatsoever you can offer.
 - 💬 Ask me about Reversopedia and let us engage in a witty banter that is quite insighful and provides a comedic relief.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?AJ-DarKnight=zluvsand"/>
-
-<img src="https://github-readme-stats.vercel.app/api?AJ-DarKnight=zluvsand&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AJ-DarKnight&theme=dark"/>
 
 <!--
 **AJ-DarKnight/AJ-DarKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://github-readme-stats.vercel.app/api?username=AJ-DarKnight&show_icons=true&theme=dark"/>
+
 -->
